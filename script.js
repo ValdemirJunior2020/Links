@@ -19,6 +19,7 @@ function checkPassword() {
             <a href="https://q-a-notes.vercel.app/" style="margin-bottom: 10px; display: block;" target="_blank">Dropdown-discriptions 2024</a>
             <a href="https://forms.gle/JwKRo6hWLydqLcFN8" style="margin-bottom: 10px; display: block;" target="_blank">Certification WNS</a>
              <a href="https://forms.gle/8kdJ1BsLQntSVKDF8" style="margin-bottom: 10px; display: block;" target="_blank">Group Certification WNS</a>
+             <a href="https://ipinfo.io/" style="margin-bottom: 10px; display: block;" target="_blank">Search an IP</a>
             
         `;
     } else {
