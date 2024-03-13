@@ -30,6 +30,7 @@ function checkPassword() {
                 <a href="https://forms.gle/JwKRo6hWLydqLcFN8" class="link" target="_blank">Certification WNS</a>
                 <a href="https://forms.gle/8kdJ1BsLQntSVKDF8" class="link" target="_blank">Group Certification WNS</a>
                 <a href="https://ipinfo.io/" class="link" target="_blank">Search an IP-address</a>
+                 <a href="https://docs.google.com/spreadsheets/d/1xjwVz9Jmrt3GX2WQe7RPkETzFincwWk2a1vMxYLZZZs/edit?usp=sharing" class="link" target="_blank">New Responses 2024</a>
             </div>
         `;
     } else {
