@@ -27,6 +27,7 @@ function checkPassword() {
                 <a href="https://q-a-notes.vercel.app/" class="link" target="_blank">Dropdown-discriptions 2024</a>
                 <a href="https://forms.gle/JwKRo6hWLydqLcFN8" class="link" target="_blank">Certification WNS</a> 
                 <a href="https://docs.google.com/spreadsheets/d/1xjwVz9Jmrt3GX2WQe7RPkETzFincwWk2a1vMxYLZZZs/edit?usp=sharing" class="link" target="_blank">New Responses 2024</a>
+                <a href="https://docs.google.com/spreadsheets/d/1h29DVUMt4As3BSzEUyH2O520goHDdF4mbsb9Agcdrfw/edit?usp=sharing" class="link" target="_blank">Weekly - Q&A Calls  (Responses)</a>
                 <a href="https://forms.gle/P9cpF5Kc6DPR3QT16" class="link" target="_blank">Weekly - Q&A Calls</a>
             </div>
             </div>
