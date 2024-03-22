@@ -17,7 +17,7 @@ function checkPassword() {
                 <a href="https://q-a-notes.vercel.app/"  class="link" target="_blank">Drop-Down-reasons</a>                               
                 <a href="https://docs.google.com/presentation/d/1ceDoOM9o5h_nSmroHRUc-3bwHi6_uusU6HIOqEqhR1c/edit#slide=id.gc6fa3c898_0_0" class="link" target="_blank">HP MBR Jim's Link</a>
                 <a href="https://drive.google.com/file/d/1yUR_25xjqSukP9nVj0hvsKX0pYMMkaZi/view?usp=sharing" class="link" target="_blank">Training Guide</a>
-                <a href="https://docs.google.com/spreadsheets/d/1pISOhvq7_DxiHVcbkxV1Kf85NOcCj6rntVihhUSkCzI/edit?usp=sharing" class="link" target="_blank">HP WNS Responses certificate</a>
+                <a href="https://docs.google.com/spreadsheets/d/1Fe1dVckSGRVvnD8sSZf-6wRqTjOLrK_yL5gkPLP40dQ/edit?usp=sharing" target="_blank">HP WNS Responses certificate</a>
             </div>
 
             <div class="column">
