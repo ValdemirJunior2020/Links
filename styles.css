@@ -5,7 +5,26 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color: rgba(1, 29, 61, 0.5); /* Navy blue color with transparency */
+    background-color:  rgb(255,255,255);
+    /* White background color */
 }
 
-/* Add any additional CSS rules to styles.css */
+.box-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 1;
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 300px;
+}
+
+.link {
+    margin-bottom: 10px;
+    display: block;
+}
