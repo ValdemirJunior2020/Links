@@ -5,26 +5,35 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color:  rgb(255,255,255);
-    /* White background color */
+    background-color: rgb(255, 255, 255); /* White background color */
 }
 
 .box-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between; /* Changed from space-around to space-between */
+    margin-top: 20px; /* Added margin to create space between boxes */
 }
 
 .column {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .box {
     border: 1px solid #ccc;
     padding: 10px;
     max-width: 300px;
+    text-align: center; /* Center-align the text inside the box */
 }
 
 .link {
     margin-bottom: 10px;
     display: block;
+    text-align: center; /* Center-align the links */
+}
+
+.box-heading {
+    text-align: center; /* Center-align the heading */
 }
