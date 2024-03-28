@@ -24,7 +24,7 @@ function checkPassword() {
                     <a href="https://docs.google.com/spreadsheets/d/1a-H17ku4-c1y5rG2P2MAFb4Zvgqws7Z3O1FQ_Sem8XY/edit#gid=1243467041" class="link" target="_blank">2023 Answers</a>
                     <a href="https://q-a-notes.vercel.app/" class="link" target="_blank">Dropdown-discriptions 2024</a>
                     <a href="https://forms.gle/JwKRo6hWLydqLcFN8" class="link" target="_blank">Certification WNS</a>
-                    <a href="https://docs.google.com/spreadsheets/d/1Fe1dVckSGRVvnD8sSZf-6wRqTjOLrK_yL5gkPLP40dQ/edit?resourcekey#gid=260355918" class="link" target="_blank">Missing Link</a>
+                    <a href="https://docs.google.com/spreadsheets/d/1Fe1dVckSGRVvnD8sSZf-6wRqTjOLrK_yL5gkPLP40dQ/edit?resourcekey#gid=260355918" class="link" target="_blank">Wns Re:</a>
                 </div>
             </div>
             <div class="column">
