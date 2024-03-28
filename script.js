@@ -16,6 +16,7 @@ function checkPassword() {
                     <a href="https://drive.google.com/file/d/1yUR_25xjqSukP9nVj0hvsKX0pYMMkaZi/view?usp=sharing" class="link" target="_blank">Training Guide</a>
                     <a href="https://docs.google.com/presentation/d/1ceDoOM9o5h_nSmroHRUc-3bwHi6_uusU6HIOqEqhR1c/edit#slide=id.gc6fa3c898_0_0" class="link" target="_blank">HP MBR Jim's Link</a>
                     <a href="https://q-a-notes.vercel.app/" target="_blank">Drop-Down-reasons</a>
+                    <a href="https://docs.google.com/spreadsheets/d/1xjwVz9Jmrt3GX2WQe7RPkETzFincwWk2a1vMxYLZZZs/edit?resourcekey#gid=932933549" target="_blank">2024 Responses</a>
                 </div>
             </div>
             <div class="column">
